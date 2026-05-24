@@ -1,0 +1,39 @@
+body {
+	font-family: sans-serif, times-new-roman;
+}
+
+p {
+        color: green;
+        ront-size: 18px;
+}
+
+
+
+h1 {
+	color: darkblue;
+	font-size: 35px;
+   
+}
+
+h2 {
+	color: red;
+        font-size: 25px;
+}
+
+.info { 
+	border-width:5px;
+	border-color:black;
+	border-style:solid;
+}
+.info {
+	border: 5px solid black;
+	display: inline-block;
+	padding: 0;
+}
+
+table { 
+	font-family: "Comic Sans MS", cursive;
+	color: #333333
+}
+
+
